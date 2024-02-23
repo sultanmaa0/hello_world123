@@ -1,0 +1,22 @@
+{
+  "name": "teaworldtest",
+  "version": "1.0.0",
+  "description": "drink tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sultanmaa0/hello_world123.git"
+  },
+  "keywords": [
+    "msglog"
+  ],
+  "author": "sultanmaa0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sultanmaa0/hello_world123/issues"
+  },
+  "homepage": "https://github.com/sultanmaa0/hello_world123#readme"
+}

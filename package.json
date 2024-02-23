@@ -1,5 +1,5 @@
 {
-  "name": "teaworldtest",
+  "name": "teaworldtest123",
   "version": "1.0.0",
   "description": "drink tea",
   "main": "index.js",
@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/sultanmaa0/hello_world123.git"
   },
+  "publishConfig": {
+  "@sultanmaa0:registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "msglog"
   ],
@@ -19,4 +22,5 @@
     "url": "https://github.com/sultanmaa0/hello_world123/issues"
   },
   "homepage": "https://github.com/sultanmaa0/hello_world123#readme"
+ 
 }
